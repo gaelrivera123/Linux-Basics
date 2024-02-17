@@ -17,7 +17,7 @@ Linux, just like any other operating system, is comprised of a few components.
 
 - Applications
   - Programs that perform specific tasks within Linux
-  - Nano is a text-editor program, which most Linux users will utilize on a day-to-day basis.
+  - Nano is a text-editor program, which most Linux users will utilize daily.
 
 - Shell
   - Command-line interpreter
@@ -46,7 +46,7 @@ Linux, just like any other operating system, is comprised of a few components.
    
 <h2>💻Linux Distributions</h2>
 
-Linux is an open-source operating system. This means anyone can view the source code and openly manipulate it in order to create their own version of Linux. The following down below are some popular distributions (distros) for Linux.
+Linux is an open-source operating system. This means anyone can view the source code and openly manipulate it to create their version of Linux. The following down below are some popular distributions (distros) for Linux.
 
 - Kali Linux
   - Designed for digital forensics and penetration testing
@@ -61,7 +61,7 @@ Linux is an open-source operating system. This means anyone can view the source 
 - Red Hat Enterprise Linux
   - Linux built for enterprise use
   - Subscription Based
-  - Popular for a company based cloud
+  - Popular for a company-based cloud
 
 - CentOS Linux
   - Enterprise based Linux system
@@ -72,7 +72,7 @@ Linux is an open-source operating system. This means anyone can view the source 
 - Bourne-Again Shell (bash)
 - C Shell (csh)
 - Korn Shell (ksh)
-- Enchanced c shell (tcsh)
+- Enhanced c shell (tcsh)
 - Z shell (zsh)
 
 <h2>Basic Linux Commands</h2>
