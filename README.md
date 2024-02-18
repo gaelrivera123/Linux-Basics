@@ -111,6 +111,7 @@ Linux is an open-source operating system. This means anyone can view the source 
     - <code>chmod o-x</code> - Removes execute permissions for other for file1
 - <code>chown</code> - Changes ownership of a file or directory
 
+[Example](https://docs.google.com/document/d/1LoaR8h0OYzDMc0BUhDhH7RZgBG9Nz2N7KMabH7NpO8M/edit?usp=sharing&resourcekey=0-hvX9-80lSFVG6OWt5BB6wQ)
 
 <h3>User Management Commands</h3>
 
